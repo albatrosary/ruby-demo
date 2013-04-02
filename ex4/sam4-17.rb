@@ -1,0 +1,5 @@
+p "abc" == "abc"
+p "abc" < "abd"
+p "abc" < "acc"
+p "a" < "aa"
+p "add" <=> "acc"

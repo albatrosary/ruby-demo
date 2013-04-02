@@ -1,0 +1,4 @@
+p 0x3FFFFFFF.class
+p (0x3FFFFFFF+0x3FFFFFFF).class
+p 0x40000000.class
+p (0x40000000-1).class

@@ -1,0 +1,3 @@
+class Foo < (user_input == "1" ? Bar : Baz)
+  # ...
+end
